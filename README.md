@@ -1,4 +1,4 @@
-# Sales & Order Performance Analysis (Excel)
+# Vrinda Sales & Order Performance Analysis (Excel)
 
 📌 Project Overview
 This project focuses on analyzing sales and order data using Microsoft Excel.  
